@@ -2,8 +2,11 @@
 Begineer
 
 Day-1:
-Program speed converter:
-public class SpeedConverter {
+Program speed converter
+
+
+
+public class SpeedConverter{
     public static long toMilesPerHour(double kilometersPerHour){
         
         if(kilometersPerHour<0){
