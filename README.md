@@ -14,6 +14,11 @@ Day-4: Multiple coding exercises related to nested if loops, casting, etc.
 
 Day-5 :Coding exercises related to methods and method overloading.
 
+Day-6: Programs related to methods and method overloading.
+
+Day-7: Programs related to methods and switch statement.
+
+
 
 
     
