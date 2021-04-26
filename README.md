@@ -20,6 +20,8 @@ Day-7: Programs related to methods and switch statement.
 
 Day-8: Programs related to switch statements.
 
+Day-9 Programs related to for loops.
+
 
 
 
