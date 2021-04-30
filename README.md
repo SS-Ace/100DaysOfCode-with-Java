@@ -26,6 +26,12 @@ Day-10: Programs related to for-loop and while-loop.
 
 Day-11: Programs related to while-loop.
 
+Day-12: -Coding exercises related to if, else, while-loop, for-loop, etc.. 
+        -Note: -In some programs you have to add main method to run it.
+               -Some programs can also be solved using for-loop or while-loop.
+
+
+
 
 
     
