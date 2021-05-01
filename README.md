@@ -32,6 +32,8 @@ Day-12: -Coding exercises related to if, else, while-loop, for-loop, etc..
 
 Day-13: -Did coding exercise related to perfect numbers.
         -Got stuck on NumberToWords(On Day14 it's solution would be uploaded).
+        
+Day-14: -Coding exercises related to NumberToWords, FlourPacker, etc.
 
 
 
