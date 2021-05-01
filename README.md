@@ -30,6 +30,9 @@ Day-12: -Coding exercises related to if, else, while-loop, for-loop, etc..
         -Note: -In some programs you have to add main method to run it.
                -Some programs can also be solved using for-loop or while-loop.
 
+Day-13: -Did coding exercise related to perfect numbers.
+        -Got stuck on NumberToWords(On Day14 it's solution would be uploaded).
+
 
 
 
