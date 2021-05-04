@@ -39,6 +39,8 @@ Day-15: Two coding exercises .
 
 Day-16: Challenges related to Scanner class(input from the user).
 
+Day-17: Two coding exercises .
+
 
 
 
