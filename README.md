@@ -1,6 +1,8 @@
 # 100DaysOfCode-with-Java
 Begineer
 
+Note: In some of the programs you might need to create "main" method to see the output.
+
 Day-1:
 Program speed converter.
 
@@ -35,11 +37,13 @@ Day-13: -Did coding exercise related to perfect numbers.
         
 Day-14: -Coding exercises related to NumberToWords, FlourPacker, etc.
 
-Day-15: Two coding exercises .
+Day-15: Two coding exercises.
 
 Day-16: Challenges related to Scanner class(input from the user).
 
-Day-17: Two coding exercises .
+Day-17: Two coding exercises.
+
+Day-18: Two coding exercises(SimpleCalculator, Person).
 
 
 
