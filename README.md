@@ -47,6 +47,8 @@ Day-18: Two coding exercises(SimpleCalculator, Person).
 
 Day-19: One coding challenge.
 
+Day-20: One coding challenge and one coding exercise completed.
+
 
 
 
