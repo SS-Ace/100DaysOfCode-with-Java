@@ -49,6 +49,7 @@ Day-19: One coding challenge.
 
 Day-20: One coding challenge and one coding exercise completed.
 
+Day-21: Three coding exercises. (You need to add main method to see the output)
 
 
 
