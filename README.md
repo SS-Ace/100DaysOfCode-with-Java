@@ -1,7 +1,9 @@
 # 100DaysOfCode-with-Java
-Begineer
+Beginner
 
 Note: In some of the programs you might need to create "main" method to see the output.
+
+Referred course: https://www.udemy.com/share/101Wn0AEMddV1bTX0B/ by Sir Tim Buchalka.
 
 Day-1:
 Program speed converter.
@@ -52,6 +54,10 @@ Day-20: One coding challenge and one coding exercise completed.
 Day-21: Three coding exercises. (You need to add main method to see the output)
 
 Day-22: One coding challenge(improved version would be available on Day-23).
+
+Day-23: Improved version of Day-22 program(Vehicle).
+
+
 
 
 
