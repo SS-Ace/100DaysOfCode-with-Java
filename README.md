@@ -57,7 +57,7 @@ Day-22: One coding challenge(improved version would be available on Day-23).
 
 Day-23: Improved version of Day-22 program(Vehicle).
 
-
+Day-24: Two coding exercises.
 
 
 
