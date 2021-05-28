@@ -59,6 +59,10 @@ Day-23: Improved version of Day-22 program(Vehicle).
 
 Day-24: Two coding exercises.
 
+Day-25: Tried CODEFORCES and LeetCode.
+
+Day-26: Did one LeetCode problem.
+
 
 
     
