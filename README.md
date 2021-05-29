@@ -63,6 +63,8 @@ Day-25: Tried CODEFORCES and LeetCode.
 
 Day-26: Did one LeetCode problem.
 
+Day-27: Solved one problem from the Coding Wizard Club-ITER entrance test and solved one problem from the LeetCode.
+
 
 
     
