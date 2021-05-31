@@ -65,6 +65,8 @@ Day-26: Did one LeetCode problem.
 
 Day-27: Solved one problem from the Coding Wizard Club-ITER entrance test and solved one problem from the LeetCode.
 
+Day-28: Solved problem related to 2D array sorting (both ascending order and descending order) without using inbuilt functions like Arrays.sort(), etc..
+
 
 
     
