@@ -67,6 +67,8 @@ Day-27: Solved one problem from the Coding Wizard Club-ITER entrance test and so
 
 Day-28: Solved problem related to 2D array sorting (both ascending order and descending order) without using inbuilt functions like Arrays.sort(), etc..
 
+Day-29: Solved one LeetCode problem.
+
 
 
     
