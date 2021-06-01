@@ -69,6 +69,8 @@ Day-28: Solved problem related to 2D array sorting (both ascending order and des
 
 Day-29: Solved one LeetCode problem.
 
+Day-30: Tribo-nacci numbers upto n.
+
 
 
     
