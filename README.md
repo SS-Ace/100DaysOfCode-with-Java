@@ -71,6 +71,8 @@ Day-29: Solved one LeetCode problem.
 
 Day-30: Tribo-nacci numbers upto n.
 
+Day-31: Check Automorphic number.
+
 
 
     
