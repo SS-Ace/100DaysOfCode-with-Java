@@ -73,6 +73,8 @@ Day-30: Tribo-nacci numbers upto n.
 
 Day-31: Check Automorphic number.
 
+Day-32: Program to print and count inversions of an array.
+
 
 
     
