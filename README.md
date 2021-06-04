@@ -75,6 +75,8 @@ Day-31: Check Automorphic number.
 
 Day-32: Program to print and count inversions of an array.
 
+Day-33: Program to check maximum of three numbers without using temporary variable.
+
 
 
     
