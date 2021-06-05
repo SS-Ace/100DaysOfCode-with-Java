@@ -1,5 +1,5 @@
 
-public class Q8 {
+public class quadratic_equation {
 
 	public static void main(String[] args) {
 	    //2*(x^2)=5*x+3  
