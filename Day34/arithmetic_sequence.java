@@ -1,5 +1,5 @@
 
-public class Q7 {
+public class arithmetic_sequence {
 
 	public static void main(String[] args) {
 		 
