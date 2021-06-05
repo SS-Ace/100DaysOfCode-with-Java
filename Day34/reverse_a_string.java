@@ -1,5 +1,5 @@
 
-public class Q9 {
+public class reverse_a_string {
 
 	public static void main(String[] args) {
 		
