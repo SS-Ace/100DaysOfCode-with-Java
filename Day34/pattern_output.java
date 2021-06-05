@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q10 {
+public class pattern_output {
 	
 	public static int solve(int n) {
 		
