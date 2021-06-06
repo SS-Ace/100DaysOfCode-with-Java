@@ -77,6 +77,10 @@ Day-32: Program to print and count inversions of an array.
 
 Day-33: Program to check maximum of three numbers without using temporary variable.
 
+Day-34: Uploaded four programs.
+
+Day-35: Uploaded improved version of pattern_output and I tried to solve a problem related to composition(OOPS-2).
+
 
 
     
