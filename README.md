@@ -89,6 +89,8 @@ Day-38: Composition(OOP).
 
 Day-39: Program to count no. of derangements.
 
+Day-40: Solved two problems one is the partial sum of the fibonacci numbers and the other is to verify the vertices of a rectangle.
+
 
 
     
