@@ -5,14 +5,11 @@ public class Q5 {
 		
 		
 		if(Math.min(rec1[2], rec2[2]) > Math.max(rec1[0], rec2[0]) && 
-		   Math.min(rec1[3], rec2[3]) > Math.max(rec1[1], rec2[1])){
-					
+		   Math.min(rec1[3], rec2[3]) > Math.max(rec1[1], rec2[1]))
 					return true;
-				}
-				
-				else{
-					return false;
-		        }
+		// No need to give else statement, if it satisfies the condition then it'll return "true" automatically, else it'll return "false"
+		// Ciao! :)
+		return false;
 	}
 	
 	//[206110757,199595273,851054072,983256382]
