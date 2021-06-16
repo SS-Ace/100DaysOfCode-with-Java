@@ -99,5 +99,7 @@ Day-43: Solved 2 problems.
 
 Day-44: Solved 2 problems.
 
+Day-45: Solved 2 problems.
+
 
     
