@@ -19,6 +19,7 @@ Write a method with the name sumDigits that has one int parameter called number.
         Tip:
         Create a project with the name DigitSumChallenge.
 */
+import java.util.Scanner;
 
 public class DigitSumChallenge {
 
@@ -45,12 +46,19 @@ public class DigitSumChallenge {
     }
 
     public static void main(String[] args){
-        System.out.println(sumDigits(125));
-        System.out.println(sumDigits(10));
-        System.out.println(sumDigits(9));
-        System.out.println(sumDigits(-1));
+        Scanner scanner = new Scanner(System.in);
 
+        while (true){
 
+            System.out.println("Enter a number (or 0 to exit): ");
+            int input = scanner.nextInt();
+
+            if (input == 0 ){
+                break;
+            }
+            System.out.println(sumDigits(input));
+        }
+        scanner.close();
     }
     }
 
