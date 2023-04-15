@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class tribonacci_numbers {
 
@@ -24,8 +25,11 @@ public class tribonacci_numbers {
 		
 		public static void main(String args[])
 		{
-			int n = 9;
-			for (int i = 1; i < n; i++)
+			Scanner scn = new Scanner(System.in);
+			System.out.println("Enter the Number to Calculate the Tribonacci: ");
+			int number = scn.nextInt();
+			
+			for (int i = 1; i < number; i++)
 				System.out.print(tribonacci(i)+" ");
 		}
 	
